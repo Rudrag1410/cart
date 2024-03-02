@@ -28,7 +28,7 @@ const Header = () => {
           Cart
         </NavLink>
         <NavLink
-          to="https://github.com/Rudra1410"
+          to="https://github.com/Rudrag1410/cart"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.content}
