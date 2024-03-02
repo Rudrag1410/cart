@@ -53,4 +53,4 @@ Now, you should be able to access the project locally. Open your browser and nav
 
 Feel free to explore the features and functionalities, and happy coding!
 
-# Design & Developed by Rudra Gupta.- [GitHub](https://github.com/Rudrag1410/).
+# Design & Developed by - [Rudra Gupta](https://github.com/Rudrag1410/).
